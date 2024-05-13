@@ -1,0 +1,11 @@
+D:\3_year_2_sem\Курсач ОСИСП\CourseWork\DBConnector\bin\Debug\net6.0\DBConnector.deps.json
+D:\3_year_2_sem\Курсач ОСИСП\CourseWork\DBConnector\bin\Debug\net6.0\DBConnector.dll
+D:\3_year_2_sem\Курсач ОСИСП\CourseWork\DBConnector\bin\Debug\net6.0\DBConnector.pdb
+D:\3_year_2_sem\Курсач ОСИСП\CourseWork\DBConnector\obj\Debug\net6.0\DBConnector.GeneratedMSBuildEditorConfig.editorconfig
+D:\3_year_2_sem\Курсач ОСИСП\CourseWork\DBConnector\obj\Debug\net6.0\DBConnector.AssemblyInfoInputs.cache
+D:\3_year_2_sem\Курсач ОСИСП\CourseWork\DBConnector\obj\Debug\net6.0\DBConnector.AssemblyInfo.cs
+D:\3_year_2_sem\Курсач ОСИСП\CourseWork\DBConnector\obj\Debug\net6.0\DBConnector.csproj.CoreCompileInputs.cache
+D:\3_year_2_sem\Курсач ОСИСП\CourseWork\DBConnector\obj\Debug\net6.0\DBConnector.dll
+D:\3_year_2_sem\Курсач ОСИСП\CourseWork\DBConnector\obj\Debug\net6.0\refint\DBConnector.dll
+D:\3_year_2_sem\Курсач ОСИСП\CourseWork\DBConnector\obj\Debug\net6.0\DBConnector.pdb
+D:\3_year_2_sem\Курсач ОСИСП\CourseWork\DBConnector\obj\Debug\net6.0\ref\DBConnector.dll

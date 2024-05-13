@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\3_year_2_sem\\Курсач ОСИСП\\CourseWork\\DBConnector\\DBConnector.csproj": {}
+  },
+  "projects": {
+    "D:\\3_year_2_sem\\Курсач ОСИСП\\CourseWork\\DBConnector\\DBConnector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\3_year_2_sem\\Курсач ОСИСП\\CourseWork\\DBConnector\\DBConnector.csproj",
+        "projectName": "DBConnector",
+        "projectPath": "D:\\3_year_2_sem\\Курсач ОСИСП\\CourseWork\\DBConnector\\DBConnector.csproj",
+        "packagesPath": "C:\\Users\\Vecher\\.nuget\\packages\\",
+        "outputPath": "D:\\3_year_2_sem\\Курсач ОСИСП\\CourseWork\\DBConnector\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vecher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
